@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/alice.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/anna.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/daisy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/dumbo.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/elsa.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/mickey.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/minnie.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/olaf.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/pinocchio.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/pooh.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/sebastian.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/woody.jpg",
+        "clicked": false
+    }
+]
